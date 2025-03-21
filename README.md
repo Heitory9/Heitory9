@@ -67,5 +67,5 @@ Meu nome é Heitor Tavares de Araujo Senra, tenho 20 anos e sou natural do Rio d
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
 
-![snake gif](https://github.com/Heitory9/Heitory9/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Heitory9/Heitory9/blob/output/github-contribution-grid-snake.svg)
 
